@@ -223,13 +223,11 @@ img {
 }
 
 
-.home__img {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    width: 675px;
-    height:605px;
-    padding-top:90px;
+.home__img{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 295px;
 }
 
 /*BUTTONS*/
@@ -257,14 +255,13 @@ img {
     margin-bottom: var(--mb-2);
 }
 
-.about__img {
-    justify-self: center;
+.about__img{
+  justify-self: center;
 }
-
-    .about__img img {
-        width: 450px;
-        border-radius: 8px;
-    }
+.about__img img{
+  width: 200px;
+  border-radius: 8px;
+}
 
     .about__text {
     text-align: justify;
